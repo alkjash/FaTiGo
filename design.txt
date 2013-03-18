@@ -1,0 +1,1 @@
+### Design Document for FaTiGo Go AI ###
