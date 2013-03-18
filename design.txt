@@ -1,1 +1,7 @@
-### Design Document for FaTiGo Go AI ###
+## Design Document for FaTiGo Go AI ###
+
+Table of Contents
+--------------------------------
+1. Introduction
+	- Goban API
+	- 
